@@ -1,0 +1,20 @@
+# Build outputs
+.gradle/
+/build/
+/app/build/
+
+# Local Android SDK path
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# VS Code
+.vscode/
+
+# Mac files
+.DS_Store
